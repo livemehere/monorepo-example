@@ -1,0 +1,10 @@
+{
+  "name": "mono-example",
+  "version": "1.0.0",
+  "author": "livemehere <rhdxoals@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
